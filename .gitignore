@@ -1,0 +1,25 @@
+# Generated URDFs
+franka_description/urdfs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
